@@ -2,7 +2,7 @@
 
 # About
 
-<p>CitiBike data from the 2020 calendary year (CY) was analyzed and arranged into two dashboards on Tableau Public. The first dashboard describes customer and subscriber patterns, while the second dashboard details CitiBike station patterns and insights. </p>
+<p>citiBike data from the 2020 calendary year (CY) was analyzed and arranged into two dashboards on Tableau Public. The first dashboard describes customer and subscriber patterns, while the second dashboard details citiBike station patterns and insights. </p>
 
 # Source Data
 
