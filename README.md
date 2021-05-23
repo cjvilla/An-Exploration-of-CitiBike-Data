@@ -11,4 +11,4 @@
 <p>The following directs you to the source files of this data: https://s3.amazonaws.com/tripdata/index.html </p>
 
 # Dashboards
-<p>Dashboards are accessible via Tableau Public. Please click on this link for the created dashboards: https://public.tableau.com/views/CitiBike_16217327563310/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link </p>
+<p>Dashboards are accessible via Tableau Public. Please click on the link below for the created dashboards: https://public.tableau.com/views/CitiBike_16217327563310/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link </p>
